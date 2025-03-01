@@ -1,7 +1,7 @@
 // https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=431
 
 #include <iostream>
-#include <stdio.h>
+//#include <stdio.h>
 #include <string.h>
 
 using namespace std;

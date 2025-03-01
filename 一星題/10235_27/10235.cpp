@@ -1,5 +1,4 @@
 #include <iostream>
-#include <iostream>
 #include <cstdio>
 using namespace std;
 const int LIMIT = 1000000;
