@@ -6,7 +6,8 @@ https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&probl
 using namespace std;
 
 // 變數 n 原數字，變數 r 是取 mod 值，變數 odd 是判斷是否是基數
-struct Num {
+struct Num 
+{
  int n,r;
  bool odd;
 };
