@@ -1,10 +1,7 @@
 https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=998
-
 #include <algorithm>
 #include <iostream>
-
 using namespace std;
-
 int s[1000005]; // 宣告一個長 1000005 的 int 陣列 s
 int main() // 主程式
 {
